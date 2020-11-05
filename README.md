@@ -31,6 +31,7 @@ sany android screen facedemo and display video demo apk
         android:screenOrientation="landscape">
         
 3.添加切换按钮，play video/face detect。将两个单独apk写为一个apk，完成按键切换，以供11.20宝马展演示用。
+    
     public void playVideo(View view) {
         startActivity(new Intent(this, PlayVideoActivity.class));
     }
