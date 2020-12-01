@@ -27,12 +27,12 @@
             android:text="@string/active_engine" />
 
 
-        <Button
-            android:gravity="center"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="jumpToSingleImageActivity"
-            android:text="@string/page_single_image" />
+<!--        <Button-->
+<!--            android:gravity="center"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="jumpToSingleImageActivity"-->
+<!--            android:text="@string/page_single_image" />-->
 
         <Button
             android:gravity="center"
@@ -41,12 +41,12 @@
             android:onClick="jumpToPreviewActivity"
             android:text="@string/page_preview" />
 
-        <Button
-            android:gravity="center"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="jumpToMultiImageActivity"
-            android:text="@string/page_multi_image" />
+<!--        <Button-->
+<!--            android:gravity="center"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:onClick="jumpToMultiImageActivity"-->
+<!--            android:text="@string/page_multi_image" />-->
 
 
         <Button

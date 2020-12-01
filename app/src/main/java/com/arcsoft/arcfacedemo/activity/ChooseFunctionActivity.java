@@ -102,18 +102,18 @@ public class ChooseFunctionActivity extends BaseActivity {
      *
      * @param view
      */
-    public void jumpToSingleImageActivity(View view) {
-        checkLibraryAndJump(SingleImageActivity.class);
-    }
+//    public void jumpToSingleImageActivity(View view) {
+//        checkLibraryAndJump(SingleImageActivity.class);
+//    }
 
     /**
      * 选择一张主照，显示主照中人脸的详细信息，然后选择图片和主照进行比对
      *
      * @param view
      */
-    public void jumpToMultiImageActivity(View view) {
-        checkLibraryAndJump(MultiImageActivity.class);
-    }
+//    public void jumpToMultiImageActivity(View view) {
+//        checkLibraryAndJump(MultiImageActivity.class);
+//    }
 
     /**
      * 打开相机，RGB活体检测，人脸注册，人脸识别
